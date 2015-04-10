@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BRPluginS4", "BRPluginS4\BRPluginS4.vcxproj", "{BDE8AB5A-C965-4EF2-8F9B-97A722752624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		GS-CS|Win32 = GS-CS|Win32
+		Release|Win32 = Release|Win32
+		USEGS|Win32 = USEGS|Win32
+		USEGSCS|Win32 = USEGSCS|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE8AB5A-C965-4EF2-8F9B-97A722752624}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BDE8AB5A-C965-4EF2-8F9B-97A722752624}.Debug|Win32.Build.0 = Debug|Win32
+		{BDE8AB5A-C965-4EF2-8F9B-97A722752624}.GS-CS|Win32.ActiveCfg = Release|Win32
+		{BDE8AB5A-C965-4EF2-8F9B-97A722752624}.GS-CS|Win32.Build.0 = Release|Win32
+		{BDE8AB5A-C965-4EF2-8F9B-97A722752624}.Release|Win32.ActiveCfg = Release|Win32
+		{BDE8AB5A-C965-4EF2-8F9B-97A722752624}.Release|Win32.Build.0 = Release|Win32
+		{BDE8AB5A-C965-4EF2-8F9B-97A722752624}.USEGS|Win32.ActiveCfg = Release|Win32
+		{BDE8AB5A-C965-4EF2-8F9B-97A722752624}.USEGS|Win32.Build.0 = Release|Win32
+		{BDE8AB5A-C965-4EF2-8F9B-97A722752624}.USEGSCS|Win32.ActiveCfg = Release|Win32
+		{BDE8AB5A-C965-4EF2-8F9B-97A722752624}.USEGSCS|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

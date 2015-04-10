@@ -1,0 +1,1 @@
+void ChatDataSend(DWORD aIndex,LPBYTE Protocol);

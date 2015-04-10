@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="[PFZ] Biblioteca">
+      <UniqueIdentifier>{705e6284-f817-4791-9fb1-676f1924c008}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[PFZ] Comandos">
+      <UniqueIdentifier>{137db4f5-a892-46e1-b46d-90c8c828a0ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[PFZ] Common">
+      <UniqueIdentifier>{33c3c2e7-11f7-4a8f-9fc8-64de6c13d73d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[PFZ] Console">
+      <UniqueIdentifier>{fc71fd8f-a703-4b05-9ed8-b109dc8ebc9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[PFZ] DuelSystem">
+      <UniqueIdentifier>{eea3c2d2-aade-46fc-b575-1746660663b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[PFZ] Fixes">
+      <UniqueIdentifier>{fdac9b82-abef-47c4-ba30-2b4b2b3ce89b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[PFZ] Funcoes">
+      <UniqueIdentifier>{dfa92bbc-0250-40d6-9923-af5cecbd6ab2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[PFZ] Plugin">
+      <UniqueIdentifier>{76dc91ba-3880-439a-96e3-60cc5a2286bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[PFZ] Protocolo">
+      <UniqueIdentifier>{7fa2126c-bfcd-43db-ad89-249859bb692a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="[PFZ] SQL">
+      <UniqueIdentifier>{84589b62-eeed-4638-a4be-0e883f69e143}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Protocolo.h">
+      <Filter>[PFZ] Protocolo</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>[PFZ] Plugin</Filter>
+    </ClInclude>
+    <ClInclude Include="SQL.h">
+      <Filter>[PFZ] SQL</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>[PFZ] Console</Filter>
+    </ClInclude>
+    <ClInclude Include="Funcoes.h">
+      <Filter>[PFZ] Funcoes</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>[PFZ] Biblioteca</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>[PFZ] Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Fixes.h">
+      <Filter>[PFZ] Fixes</Filter>
+    </ClInclude>
+    <ClInclude Include="Comandos.h">
+      <Filter>[PFZ] Comandos</Filter>
+    </ClInclude>
+    <ClInclude Include="DuelSystem.h">
+      <Filter>[PFZ] DuelSystem</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Protocolo.cpp">
+      <Filter>[PFZ] Protocolo</Filter>
+    </ClCompile>
+    <ClCompile Include="Plugin.cpp">
+      <Filter>[PFZ] Plugin</Filter>
+    </ClCompile>
+    <ClCompile Include="SQL.cpp">
+      <Filter>[PFZ] SQL</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.cpp">
+      <Filter>[PFZ] Console</Filter>
+    </ClCompile>
+    <ClCompile Include="Funcoes.cpp">
+      <Filter>[PFZ] Funcoes</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>[PFZ] Biblioteca</Filter>
+    </ClCompile>
+    <ClCompile Include="Fixes.cpp">
+      <Filter>[PFZ] Fixes</Filter>
+    </ClCompile>
+    <ClCompile Include="Comandos.cpp">
+      <Filter>[PFZ] Comandos</Filter>
+    </ClCompile>
+    <ClCompile Include="DuelSystem.cpp">
+      <Filter>[PFZ] DuelSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Common.cpp">
+      <Filter>[PFZ] Common</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

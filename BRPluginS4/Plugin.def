@@ -1,0 +1,2 @@
+LIBRARY RZProjectS4
+EXPORTS RZInit @1
